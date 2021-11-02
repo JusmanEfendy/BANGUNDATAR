@@ -122,3 +122,19 @@ VSCODE
 
 FLOWGORITHM
 
+![lingkaran1](https://user-images.githubusercontent.com/92988781/139854871-ee1a948a-58c5-4d15-b3db-649c0f429114.png)
+
+![lingkaran2](https://user-images.githubusercontent.com/92988781/139854925-b29d5b44-5022-4399-b5be-34bd2558e997.png)
+
+
+VSCODE
+
+![lingkaran3](https://user-images.githubusercontent.com/92988781/139854993-ec62514f-d464-4e25-943e-4bfb5ffd7c0e.png)
+
+![persegi4](https://user-images.githubusercontent.com/92988781/139855037-d217bff7-ded9-4f86-a444-236187e8a158.png)
+
+
+- SELESAI
+
+
+

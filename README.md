@@ -74,11 +74,21 @@ VSCODE
 
 FLOWGORITHM
 
+![belahketupat1](https://user-images.githubusercontent.com/92988781/139844752-5a5622c8-832c-4b89-8696-656bf3530910.png)
+
+![belahketupat2](https://user-images.githubusercontent.com/92988781/139844785-19f68ea1-3f49-4588-be22-7e65d05f1a83.png)
 
 
+VSCODE
+
+![belahketupat3](https://user-images.githubusercontent.com/92988781/139844854-1bb6bbb7-532c-42c4-9dab-57e0df77371a.png)
+
+![belahketupat4](https://user-images.githubusercontent.com/92988781/139844885-72239364-25ae-4bd2-869e-4fe69400ba0a.png)
 
 
+- LAYANG - LAYANG
 
+FLOWGORITHM
 
 
 

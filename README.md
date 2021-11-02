@@ -90,6 +90,18 @@ VSCODE
 
 FLOWGORITHM
 
+![belahketupat1](https://user-images.githubusercontent.com/92988781/139846976-8e94989b-3b0b-4cf3-bfae-daaf8931f8e5.png)
+
+![LAYANGLAYANG2](https://user-images.githubusercontent.com/92988781/139847015-0301b3ee-7679-41ed-89a0-0dab04b0193f.png)
 
 
+VSCODE
 
+![layanglayang3](https://user-images.githubusercontent.com/92988781/139847124-18936d64-a76c-4b56-92b1-e215f9c6ef58.png)
+
+![layanglayang4](https://user-images.githubusercontent.com/92988781/139847167-d247e75e-0484-4fdc-833f-9999d553b519.png)
+
+
+- TRAPESIUM
+
+FLOWGORITHM

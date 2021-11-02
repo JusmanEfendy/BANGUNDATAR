@@ -131,7 +131,8 @@ VSCODE
 
 ![lingkaran3](https://user-images.githubusercontent.com/92988781/139854993-ec62514f-d464-4e25-943e-4bfb5ffd7c0e.png)
 
-![persegi4](https://user-images.githubusercontent.com/92988781/139855037-d217bff7-ded9-4f86-a444-236187e8a158.png)
+![lingkaran4](https://user-images.githubusercontent.com/92988781/139894480-b4175532-5c50-496e-8366-c7e64d576c4f.png)
+
 
 
 - SELESAI

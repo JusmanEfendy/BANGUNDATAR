@@ -105,3 +105,20 @@ VSCODE
 - TRAPESIUM
 
 FLOWGORITHM
+
+![trapesium1](https://user-images.githubusercontent.com/92988781/139851204-cf1fc146-4c14-44d2-9a71-b7d35ee3ec97.png)
+
+![trapesium2](https://user-images.githubusercontent.com/92988781/139851249-ffc8da47-7c2d-4bae-bf3d-e79b04f6fdb6.png)
+
+
+VSCODE
+
+![trapesium3](https://user-images.githubusercontent.com/92988781/139851333-95a12f58-5c15-484f-9fc5-ec169448d9fe.png)
+
+![trapesium4](https://user-images.githubusercontent.com/92988781/139851372-e09bba55-ed3c-4221-b192-f203fe27fc21.png)
+
+
+- LINGKARAN
+
+FLOWGORITHM
+
